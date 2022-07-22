@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This syllabus section provides information on course meeting times, requirements
+  for credits and Engineering Design Points (EDPs), tournament attendance, contest
+  rules, and getting help.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 61b521ec-9a35-4a0e-9762-5a130e62f2ef
 ---

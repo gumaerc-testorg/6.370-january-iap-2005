@@ -1,5 +1,11 @@
 ---
 content_type: page
+description: This section provides an introduction to the course project, a team project
+  to develop virtual robots to compete in a real-time strategy game. Links to project
+  resources are also provided.
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 title: Projects
 uid: 8b7ce2e4-e858-fdc3-e437-b42a69e63db8
 ---

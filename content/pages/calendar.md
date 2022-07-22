@@ -1,10 +1,13 @@
 ---
 content_type: page
+description: This section provides the schedule of deadlines for the course project.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: bc5445d1-c167-b35b-a8f6-4c5da7e979aa
 ---
 
-As explained in the [syllabus]({{< baseurl >}}/pages/syllabus), 6.370 does not have a regular class schedule. However, there are several deadlines to meet as teams complete their project.
+As explained in the {{% resource_link 61b521ec-9a35-4a0e-9762-5a130e62f2ef "syllabus" %}}, 6.370 does not have a regular class schedule. However, there are several deadlines to meet as teams complete their project.
 
 {{< tableopen >}}
 {{< theadopen >}}
